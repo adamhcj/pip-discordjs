@@ -3,6 +3,10 @@
 <p>Built using https://discord.js.org/</p>
 <p>"discord.js is a powerful Node.js module that allows you to interact with the Discord API very easily. It takes a much more object-oriented approach than most other JS Discord libraries, making your bot's code significantly tidier and easier to comprehend."</p>
 
+## 📹 Preview (Please turn on sounds to hear the bot speak)
+https://github.com/user-attachments/assets/16ef3388-5b94-4a6b-b090-18a00ce66033
+
+
 <br>
 <p>used Google Text-to-Speech for NodeJS https://www.npmjs.com/package/node-gtts</p>
 <p>Allows bot to speak in a channel, good for people who have muted mics / shy / in a library</p>
