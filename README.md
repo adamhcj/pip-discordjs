@@ -9,6 +9,12 @@ Additional recurring monthly fees paid: <br>
 USD 0.64 for 8GB-month EBS storage <br>
 USD 3.36 for 1 in-use public ipv4 address
 
+<hr>
+
+![image](https://github.com/user-attachments/assets/0adeada6-1876-403e-8a04-13a20a9a1184)
+
+<hr>
+
 ## 📹 Preview (Please turn on sounds to hear the bot speak)
 https://github.com/user-attachments/assets/16ef3388-5b94-4a6b-b090-18a00ce66033
 
