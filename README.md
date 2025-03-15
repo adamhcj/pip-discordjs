@@ -3,6 +3,12 @@
 <p>Built using https://discord.js.org/</p>
 <p>"discord.js is a powerful Node.js module that allows you to interact with the Discord API very easily. It takes a much more object-oriented approach than most other JS Discord libraries, making your bot's code significantly tidier and easier to comprehend."</p>
 
+## ☁️ My own deployment on AWS
+I have purchased 3 year reserved instance of t2.nano (~$80+ SGD) since my 1 year free tier has passed. <br>
+Additional recurring monthly fees paid: <br>
+USD 0.64 for 8GB-month EBS storage <br>
+USD 3.36 for 1 in-use public ipv4 address
+
 ## 📹 Preview (Please turn on sounds to hear the bot speak)
 https://github.com/user-attachments/assets/16ef3388-5b94-4a6b-b090-18a00ce66033
 
